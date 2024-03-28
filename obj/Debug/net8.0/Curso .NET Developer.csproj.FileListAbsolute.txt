@@ -1,0 +1,14 @@
+D:\Projetos\Testes Aula\Curso .NET Developer\bin\Debug\net8.0\Curso .NET Developer.exe
+D:\Projetos\Testes Aula\Curso .NET Developer\bin\Debug\net8.0\Curso .NET Developer.deps.json
+D:\Projetos\Testes Aula\Curso .NET Developer\bin\Debug\net8.0\Curso .NET Developer.runtimeconfig.json
+D:\Projetos\Testes Aula\Curso .NET Developer\bin\Debug\net8.0\Curso .NET Developer.dll
+D:\Projetos\Testes Aula\Curso .NET Developer\bin\Debug\net8.0\Curso .NET Developer.pdb
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.AssemblyInfoInputs.cache
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.AssemblyInfo.cs
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.csproj.CoreCompileInputs.cache
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.dll
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\refint\Curso .NET Developer.dll
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.pdb
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.genruntimeconfig.cache
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\ref\Curso .NET Developer.dll
