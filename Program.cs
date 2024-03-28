@@ -1,28 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.ComponentModel.Design;
+using System.Diagnostics.Contracts;
+int n1 = 10;
+int contador = 0;
 
-Tabuada();
-
-static void Tabuada()
+while (contador <= 10)
 {
-    Console.WriteLine("Escolha o número da tabuada:");
-    float n1 = float.Parse(Console.ReadLine());
+    Console.WriteLine($"{n1} X {contador} = {n1 * contador}");
+    contador++;
 
-    for (int contador = 0; contador <= 10; contador++)
-    {
-        Console.WriteLine($"{n1} X {contador} = {n1 * contador}");
+    if (contador == 6)
+    { //serve para interromper o fluxo de execução mesmo a condição do while sendo verdadeira
+        break;
     }
-
 }
-Console.WriteLine("Fim da tabuada!");
-Console.WriteLine("Para gerar outra tabuada pressione 1, para sair digite 0");
-Console.ReadKey();
 
-short res = short.Parse(Console.ReadLine());
-switch (res)
-{
-    case 1: Tabuada(); break;
-    case 0: System.Environment.Exit(0); break;
-    default: Tabuada(); break;
-
-}
+// for (int contador = 0; contador <= 10; contador++)
+// {
+//     Console.WriteLine($"{n1} X {contador} = {n1 * contador}");
+// }

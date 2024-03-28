@@ -12,3 +12,4 @@ D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\refint\Curso .NET 
 D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.pdb
 D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.genruntimeconfig.cache
 D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\ref\Curso .NET Developer.dll
+D:\Projetos\Testes Aula\Curso .NET Developer\obj\Debug\net8.0\Curso .NET Developer.sourcelink.json
